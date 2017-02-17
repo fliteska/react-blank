@@ -1,0 +1,11 @@
+.c-counter {
+    .c-counter__value {
+        font-size: 30px;
+    }
+    .c-counter__buttons {
+        button {
+            background: $test;
+            width: 33%;
+        }
+    }
+}
